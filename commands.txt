@@ -1,0 +1,9 @@
+git init - 1 gång per projekt
+
+git add . ((när ändring gjorts))
+git commit -m "namn" ((för o ladda upp))
+
+git log
+git status
+
+git push ((laddar upp på github))
